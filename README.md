@@ -1,1 +1,1 @@
-# THis s the classroom repository
+# This is the classroom repository
